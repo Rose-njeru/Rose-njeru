@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rose-njeru
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Google data analytics program,Sql and python
+- 🌱 I’m currently learning Google data analytics program,SQl,R and Tableau
 - 💞️ I’m looking to collaborate on data visualization,data cleaning,story-telling with data
 - 📫 How to reach me karenstephh29@gmail.com
 
