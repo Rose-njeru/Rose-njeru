@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rose Karen Mwikali Njeru</h1>
 <h3 align="center">A passionate Data Analyst from Kenya</h3>
-- 🔭 I’m currently working on **Olympics 2021 Dataset on SQl**
+- 🔭 I’m currently working on **Google Data Analytics capstone project**
 
 - 🌱 I’m currently learning **Python,SQL**
 
