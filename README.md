@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rose-njeru.github.io/Rose-Njeru-Portfolio-Projects/](https://rose-njeru.github.io/Rose-Njeru-Portfolio-Projects/)
 
-- 💬 Ask me about **Tableau,Excel,SQL,Python**
+- 💬 Ask me about **Tableau,Excel,SQL,R**
 
 - 📫 How to reach me **karenstephh29@gmail.com**
 
