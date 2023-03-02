@@ -10,8 +10,6 @@ I'm Rose njeru a self taught Data Analyst and SQL Enthusiast from Kenya
 # 📚 Projects
 + For my projects[click here](https://rose-njeru.github.io/Rose-Njeru-Portfolio-Projects/)
 + [Tableau](https://public.tableau.com/app/profile/rose.karen.mwikali.njeru)
-+ [Excel Projects](https://github.com/Rose-njeru/Excel-Projects)
-+ [Interview Questions Querries](https://github.com/Rose-njeru/Interview-Questions)
 
 
 # ⚡ Core Competencies ⚡
@@ -20,7 +18,13 @@ I'm Rose njeru a self taught Data Analyst and SQL Enthusiast from Kenya
 
 # 🍀 Currently🍀
 + Working on Projects in Excel,SQL,Tableau
-+ Brushing on Tableau with [Udemy Course](https://www.udemy.com/course/tableau10/learn/lecture/5636604#overview)
+
+**When not analysing data**
++ I play football  at number 11
++ Listening to music
++ Reading
++ Voluntering
+  
 
 # 🙌 Connect with me 🙌
 + [LinkedIn](https://www.linkedin.com/in/rosekaren-njeru/)
