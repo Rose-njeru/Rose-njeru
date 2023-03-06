@@ -3,12 +3,12 @@
 I'm Rose njeru a self taught Data Analyst and SQL Enthusiast from Kenya 
 
 ## About Me in 20 seconds
-+ 🧾 Accounting background with 3 years of exprerience
++ 🧾 Accounting background with 2+ years of exprerience
 + 📊 Transition into Data Analytics Octomber 2021
 + 📚 Loves working with numbers,learning new skills.I self taught myself SQL,Tableau
 
 # 📚 Projects
-+ For my projects[click here](https://rose-njeru.github.io/Rose-Njeru-Portfolio-Projects/)
++ For my projects[click here](https://rose-njeru.github.io/Rose-Njeru-Portfolio/)
 + [Tableau](https://public.tableau.com/app/profile/rose.karen.mwikali.njeru)
 
 
