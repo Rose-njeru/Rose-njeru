@@ -2,13 +2,15 @@
 
 I'm Rose njeru a self taught Data Analyst and SQL Enthusiast from Kenya 
 
+Looking forward to my first data job
+
 ## About Me in 20 seconds
 + 🧾 Accounting background with 2+ years of exprerience
-+ 📊 Transition into Data Analytics Octomber 2021
++ 📊 Transition into Data Analytics 2022
 + 📚 Loves working with numbers,learning new skills.I self taught myself SQL,Tableau
 
 # 📚 Projects
-+ For my projects[click here](https://rose-njeru.github.io/Rose-Njeru-Portfolio/)
++ For my projects[click here](https://rose-njeru.github.io/Data-Portfolio/)
 + [Tableau](https://public.tableau.com/app/profile/rose.karen.mwikali.njeru)
 
 
@@ -17,13 +19,14 @@ I'm Rose njeru a self taught Data Analyst and SQL Enthusiast from Kenya
 + Skills:Data Cleaning,Data Visualization,Data Analysis,Relational Databases,Dashboard Design and Development,Statistical Modelling
 
 # 🍀 Currently🍀
-+ Working on Projects in Excel,SQL,Tableau
++ Learning Python
++ Voluntering at CatchaFire
 
 **When not analysing data**
-+ I play football  at number 11
++ I play soccer  
 + Listening to music
 + Reading
-+ Voluntering
++ Admiring Nature
   
 
 # 🙌 Connect with me 🙌
