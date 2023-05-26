@@ -19,7 +19,7 @@ Looking forward to my first data job
 + Skills:Data Cleaning,Data Visualization,Data Analysis,Relational Databases,Dashboard Design and Development,Statistical Modelling
 
 # 🍀 Currently🍀
-+ Learning Python;the Data Science Skill Track at DataCamp
++ Learning Python;Data Scientist with Python at DataCamp
 + Voluntering at CatchaFire
 
 **When not analysing data**
