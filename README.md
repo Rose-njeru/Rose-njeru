@@ -7,7 +7,7 @@ Looking forward to my first data job
 ## About Me in 20 seconds
 + 🧾 Accounting background with 2+ years of exprerience
 + 📊 Transition into Data Analytics 2022
-+ 📚 Loves working with numbers,learning new skills.I self taught myself SQL,Tableau
++ 📚 Loves working with numbers,learning new skills.I self taught myself SQL,Tableau,Python
 
 # 📚 Projects
 + For my projects[click here](https://rose-njeru.github.io/Data-Portfolio/)
@@ -19,7 +19,7 @@ Looking forward to my first data job
 + Skills:Data Cleaning,Data Visualization,Data Analysis,Relational Databases,Dashboard Design and Development,Statistical Modelling
 
 # 🍀 Currently🍀
-+ Learning Python
++ Learning Python;the Data Science Skill Track at DataCamp
 + Voluntering at CatchaFire
 
 **When not analysing data**
